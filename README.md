@@ -68,6 +68,6 @@ El foco estuvo puesto en:
 
 ##  Autoría
 
-Proyecto desarrollado en grupo para la materia **Ciencia de Datos**  
+Proyecto desarrollado en grupo para la materia **Ciencia de Datos** - Grupo 2
 **UTN – Facultad Regional Mendoza**  
 Año: 2025
